@@ -1,0 +1,28 @@
+.ToDoList{
+  margin: 100px;
+
+
+}
+
+button{
+  display:flex;
+  justify-content: center;
+  width: 70px;
+  margin-left: 75px;
+}
+input{
+  width: 220px;
+  border: none;
+  
+}
+
+ul{
+  list-style: none; 
+}
+
+li {
+  margin: 2em 0;
+  padding-top: 1em;
+  display: block;
+  font-size: 20px;
+}
